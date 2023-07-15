@@ -1,19 +1,4 @@
 
-Linea 1
-mas texto 11
-mas informacion 21
-Linea 2
-mas texto 12
-
-Linea 3
-mas texto 13
-mas informacion 23
-Linea 4
-mas texto 14
-
-Linea 5
-mas texto 15
-mas informacion 25
 Linea 6
 mas texto 16
 
