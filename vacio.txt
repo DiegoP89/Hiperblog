@@ -5,14 +5,7 @@ mas texto 16
 Linea 7
 mas texto 17
 
-experimento 1
-experimento 1.5
-experimento 2
-experimento 2.5
 
-master 1
-master1.5
-master 2
 
 Linea 8
 mas texto 18
