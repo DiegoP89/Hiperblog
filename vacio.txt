@@ -5,13 +5,9 @@ mas texto 16
 Linea 7
 mas texto 17
 
-<<<<<<< HEAD
-main 1
-=======
 experimento 1
 experimento 2
 
->>>>>>> experimento1
 
 Linea 8
 mas texto 18
